@@ -1,6 +1,8 @@
 # How to run
  - To generate embeddings run main.py 
  
+# ASONAM paper
+"Multi-task Network Embedding with Adaptive Loss Weighting"
 
 # Files
  - main.py: generates embeddings
